@@ -40,9 +40,9 @@ If you decide against the domain, change the two URLs in `Legal.swift` to the
 
 ## Contact address
 
-Support and privacy enquiries go to `afterwards.app@icloud.com`. **This alias does not
-exist yet** — create it on the Apple Account before the pages go live, or change the
-address in `privacy/index.html`, `support/index.html` and `index.html` together. Nothing
+Support and privacy enquiries go to `ranovalabs@icloud.com`, the Ranova Labs address
+shared by all its apps. If it ever changes, update `privacy/index.html`,
+`support/index.html` and `index.html` together, including the shared footer. Nothing
 in the app itself carries the address; Settings → Contact Support opens the support page.
 
 ## Keeping the privacy policy true
